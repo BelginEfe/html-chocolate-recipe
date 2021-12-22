@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    font-style: italic;
+}
+
+.container {
+    position: relative;
+}
+
+.items {
+    position: relative;
+    left: 40%;
+}
+
+.flex-class {
+    display: flex;
+    text-align: center;
+    align-items:flex-end;
+}
+
+.flex-items {
+    margin-right: 10px;
+}
+
+span {
+    color:blueviolet;
+}
+
+h2 {
+    background-color:rgb(109, 56, 26);
+    color: white;
+    width: 20%;
+    text-align: center;
+    border-radius: 0 40% 0 40%;
+}
+
+
+
+
